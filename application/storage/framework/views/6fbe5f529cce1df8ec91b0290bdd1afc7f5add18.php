@@ -1,4 +1,5 @@
 <head>
+    <?php error_reporting(E_ALL); ini_set('display_errors', 1);?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="<?php echo e(csrf_token()); ?>" id="meta-csrf" />
@@ -166,4 +167,4 @@
     <!--[note: no sanitizing required] for this trusted content, which is added by the admin-->
     <?php echo config('system.settings_theme_head'); ?>
 
-</head><?php /**PATH C:\xampp\htdocs\newcrm\application\resources\views/layout/header.blade.php ENDPATH**/ ?>
+</head><?php /**PATH C:\xampp\htdocs\crm\application\resources\views/layout/header.blade.php ENDPATH**/ ?>

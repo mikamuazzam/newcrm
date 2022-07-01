@@ -59,4 +59,4 @@
     data-action-ajax-class="js-ajax-ux-request"
     data-header-visibility="hidden" data-close-button-visibility="hidden"
     data-action-ajax-loading-target="commonModalBody"></span>
-<?php endif; ?><?php /**PATH C:\xampp\htdocs\newcrm\application\resources\views/layout/automationjs.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH C:\xampp\htdocs\crm\application\resources\views/layout/automationjs.blade.php ENDPATH**/ ?>

@@ -27,4 +27,4 @@
 <?php echo config('system.settings_theme_body'); ?>
 
 
-</html><?php /**PATH C:\xampp\htdocs\newcrm\application\resources\views/layout/wrapperplain.blade.php ENDPATH**/ ?>
+</html><?php /**PATH C:\xampp\htdocs\crm\application\resources\views/layout/wrapperplain.blade.php ENDPATH**/ ?>

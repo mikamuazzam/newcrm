@@ -26,4 +26,4 @@
 <?php if(@config('visibility.web_form_builder')): ?>
 <script src="public/vendor/js/formbuilder/form-builder.min.js?v=<?php echo e(config('system.versioning')); ?>"></script>
 <script src="public/js/webforms/webforms.js?v=<?php echo e(config('system.versioning')); ?>"></script>
-<?php endif; ?><?php /**PATH C:\xampp\htdocs\newcrm\application\resources\views/layout/footerjs.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH C:\xampp\htdocs\crm\application\resources\views/layout/footerjs.blade.php ENDPATH**/ ?>
